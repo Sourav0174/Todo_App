@@ -1,6 +1,11 @@
 # Todo App
 
-A simple, lightweight Todo app built with Flutter. This app allows users to add, delete, and manage their tasks efficiently. It does not use any external database, making it easy to run locally without additional setup.
+A simple, lightweight Todo app built with Flutter using Bloc state management. This app allows users to add, delete, and manage their tasks efficiently. It does not use any external database, making it easy to run locally without additional setup.
+
+## Tech
+- Flutter
+- Bloc 
+
 
 ## Features
 - Add new tasks with ease
